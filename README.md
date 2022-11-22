@@ -4,3 +4,4 @@ repositório com as implementações dos padrões de projeto explorados no Lab "
 - Singleton
 - Strategy/Repository
 - Facade
+- swagger URL: http://127.1.0.1:8080/swagger-ui.html
